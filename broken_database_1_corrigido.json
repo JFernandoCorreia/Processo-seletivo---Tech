@@ -1,0 +1,1058 @@
+[
+  {
+    "data": "2022-01-01",
+    "id_marca_": 1,
+    "vendas": 40,
+    "valor_do_veiculo": 29000,
+    "nome": "Mobi",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 1,
+    "vendas": 2,
+    "valor_do_veiculo": 49000,
+    "nome": "argo",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 1,
+    "vendas": 3,
+    "valor_do_veiculo": 19000,
+    "nome": "Uno",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 2,
+    "vendas": 35,
+    "valor_do_veiculo": 35000,
+    "nome": "Up",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 3,
+    "vendas": 42,
+    "valor_do_veiculo": 32000,
+    "nome": "Picanto",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 2,
+    "vendas": 2,
+    "valor_do_veiculo": 40000,
+    "nome": "Gol",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 7,
+    "vendas": 4,
+    "valor_do_veiculo": 60000,
+    "nome": "Lancer",
+    "marca": "Mitsubishi"
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 2,
+    "vendas": 1,
+    "valor_do_veiculo": 35000,
+    "nome": "Kombi",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 9,
+    "vendas": 2,
+    "valor_do_veiculo": 45200,
+    "nome": "onix",
+    "marca": "Chevrølet "
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 270000,
+    "nome": "E-J7",
+    "marca": "JæC Møtørs"
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 11,
+    "vendas": 5,
+    "valor_do_veiculo": 70000,
+    "nome": "Captur",
+    "marca": "Renæult"
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 1,
+    "vendas": 1,
+    "valor_do_veiculo": 8000,
+    "nome": "Palio",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 2,
+    "vendas": 40,
+    "valor_do_veiculo": 35000,
+    "nome": "Up",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 1,
+    "vendas": 52,
+    "valor_do_veiculo": 29000,
+    "nome": "Mobi",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 3,
+    "vendas": 30,
+    "valor_do_veiculo": 36000,
+    "nome": "Picanto",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 5,
+    "vendas": 15,
+    "valor_do_veiculo": 45000,
+    "nome": "Yaris",
+    "marca": "Tøyøtæ"
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 6,
+    "vendas": 2,
+    "valor_do_veiculo": 28000,
+    "nome": "March",
+    "marca": "Nissæn"
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 7,
+    "vendas": 7,
+    "valor_do_veiculo": 240000,
+    "nome": "L200",
+    "marca": "Mitsubishi"
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 2,
+    "vendas": 6,
+    "valor_do_veiculo": 30000,
+    "nome": "Gol",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 3,
+    "vendas": 4,
+    "valor_do_veiculo": 41000,
+    "nome": "Cerato",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 10,
+    "vendas": 6,
+    "valor_do_veiculo": 145000,
+    "nome": "E-JS1",
+    "marca": "JæC Møtørs"
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 11,
+    "vendas": 3,
+    "valor_do_veiculo": 60000,
+    "nome": "Duster",
+    "marca": "Renæult"
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 1,
+    "vendas": 1,
+    "valor_do_veiculo": 10000,
+    "nome": "Uno",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 2,
+    "vendas": 30,
+    "valor_do_veiculo": 35000,
+    "nome": "Up",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 3,
+    "vendas": 25,
+    "valor_do_veiculo": 145000,
+    "nome": "Picanto",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 4,
+    "vendas": 20,
+    "valor_do_veiculo": 79000,
+    "nome": "208",
+    "marca": "Peugeøt "
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 1,
+    "vendas": 30,
+    "valor_do_veiculo": 30000,
+    "nome": "Mobi",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 2,
+    "vendas": 1,
+    "valor_do_veiculo": 28000,
+    "nome": "Gol",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 7,
+    "vendas": 1,
+    "valor_do_veiculo": 75000,
+    "nome": "Lancer",
+    "marca": "Mitsubishi"
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 8,
+    "vendas": 2,
+    "valor_do_veiculo": 300000,
+    "nome": "Forester",
+    "marca": "Subæru"
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 9,
+    "vendas": 3,
+    "valor_do_veiculo": 45000,
+    "nome": "onix",
+    "marca": "Chevrølet "
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 10,
+    "vendas": 5,
+    "valor_do_veiculo": 25000,
+    "nome": "J5",
+    "marca": "JæC Møtørs"
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 11,
+    "vendas": 1,
+    "valor_do_veiculo": 30000,
+    "nome": "Sandero",
+    "marca": "Renæult"
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 1,
+    "vendas": 40,
+    "valor_do_veiculo": 28000,
+    "nome": "Mobi",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 2,
+    "vendas": 45,
+    "valor_do_veiculo": 30000,
+    "nome": "Up",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 3,
+    "vendas": 30,
+    "valor_do_veiculo": 26000,
+    "nome": "Picanto",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 4,
+    "vendas": 25,
+    "valor_do_veiculo": 85000,
+    "nome": "208",
+    "marca": "Peugeøt "
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 1,
+    "vendas": 1,
+    "valor_do_veiculo": 12000,
+    "nome": "Palio",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 6,
+    "vendas": 5,
+    "valor_do_veiculo": 30000,
+    "nome": "March",
+    "marca": "Nissæn"
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 7,
+    "vendas": 1,
+    "valor_do_veiculo": 124000,
+    "nome": "Eclipse",
+    "marca": "Mitsubishi"
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 8,
+    "vendas": 4,
+    "valor_do_veiculo": 320000,
+    "nome": "XV",
+    "marca": "Subæru"
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 2,
+    "vendas": 1,
+    "valor_do_veiculo": 99000,
+    "nome": "Polo",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 14000,
+    "nome": "J2",
+    "marca": "JæC Møtørs"
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 11,
+    "vendas": 5,
+    "valor_do_veiculo": 25000,
+    "nome": "Clio",
+    "marca": "Renæult"
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 1,
+    "vendas": 50,
+    "valor_do_veiculo": 25000,
+    "nome": "Mobi",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 2,
+    "vendas": 45,
+    "valor_do_veiculo": 29000,
+    "nome": "Up",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 3,
+    "vendas": 35,
+    "valor_do_veiculo": 19000,
+    "nome": "Picanto",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 1,
+    "vendas": 2,
+    "valor_do_veiculo": 28000,
+    "nome": "argo",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 5,
+    "vendas": 3,
+    "valor_do_veiculo": 35000,
+    "nome": "Yaris",
+    "marca": "Tøyøtæ"
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 6,
+    "vendas": 7,
+    "valor_do_veiculo": 22000,
+    "nome": "March",
+    "marca": "Nissæn"
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 2,
+    "vendas": 2,
+    "valor_do_veiculo": 90000,
+    "nome": "T-Cross",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 8,
+    "vendas": 4,
+    "valor_do_veiculo": 320000,
+    "nome": "Forester",
+    "marca": "Subæru"
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 9,
+    "vendas": 3,
+    "valor_do_veiculo": 40000,
+    "nome": "onix",
+    "marca": "Chevrølet "
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 10,
+    "vendas": 2,
+    "valor_do_veiculo": 12000,
+    "nome": "J2",
+    "marca": "JæC Møtørs"
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 11,
+    "vendas": 5,
+    "valor_do_veiculo": 18000,
+    "nome": "Clio",
+    "marca": "Renæult"
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 1,
+    "vendas": 45,
+    "valor_do_veiculo": 26000,
+    "nome": "Mobi",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 2,
+    "vendas": 35,
+    "valor_do_veiculo": 30000,
+    "nome": "Up",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 3,
+    "vendas": 30,
+    "valor_do_veiculo": 20000,
+    "nome": "Picanto",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 4,
+    "vendas": 20,
+    "valor_do_veiculo": 78000,
+    "nome": "208",
+    "marca": "Peugeøt "
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 1,
+    "vendas": 2,
+    "valor_do_veiculo": 20000,
+    "nome": "Uno",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 6,
+    "vendas": 3,
+    "valor_do_veiculo": 23000,
+    "nome": "March",
+    "marca": "Nissæn"
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 7,
+    "vendas": 8,
+    "valor_do_veiculo": 160000,
+    "nome": "Pajero",
+    "marca": "Mitsubishi"
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 1,
+    "vendas": 4,
+    "valor_do_veiculo": 80000,
+    "nome": "Cronos",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 9,
+    "vendas": 8,
+    "valor_do_veiculo": 42000,
+    "nome": "onix",
+    "marca": "Chevrølet "
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 13000,
+    "nome": "J2",
+    "marca": "JæC Møtørs"
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 11,
+    "vendas": 3,
+    "valor_do_veiculo": 80000,
+    "nome": "Sandero RS",
+    "marca": "Renæult"
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 1,
+    "vendas": 40,
+    "valor_do_veiculo": 32000,
+    "nome": "Mobi",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 2,
+    "vendas": 35,
+    "valor_do_veiculo": 35000,
+    "nome": "Up",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 3,
+    "vendas": 38,
+    "valor_do_veiculo": 18000,
+    "nome": "Picanto",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 4,
+    "vendas": 6,
+    "valor_do_veiculo": 80000,
+    "nome": "2008",
+    "marca": "Peugeøt "
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 5,
+    "vendas": 20,
+    "valor_do_veiculo": 140000,
+    "nome": "Corolla",
+    "marca": "Tøyøtæ"
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 2,
+    "vendas": 1,
+    "valor_do_veiculo": 120000,
+    "nome": "Jetta",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 7,
+    "vendas": 3,
+    "valor_do_veiculo": 75000,
+    "nome": "Lancer",
+    "marca": "Mitsubishi"
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 8,
+    "vendas": 15,
+    "valor_do_veiculo": 250000,
+    "nome": "WRX",
+    "marca": "Subæru"
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 9,
+    "vendas": 3,
+    "valor_do_veiculo": 55000,
+    "nome": "onix",
+    "marca": "Chevrølet "
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 10,
+    "vendas": 4,
+    "valor_do_veiculo": 10000,
+    "nome": "J2",
+    "marca": "JæC Møtørs"
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 11,
+    "vendas": 8,
+    "valor_do_veiculo": 35000,
+    "nome": "Duster",
+    "marca": "Renæult"
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 1,
+    "vendas": 25,
+    "valor_do_veiculo": 35000,
+    "nome": "Mobi",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 2,
+    "vendas": 20,
+    "valor_do_veiculo": 38000,
+    "nome": "Up",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 3,
+    "vendas": 22,
+    "valor_do_veiculo": 33000,
+    "nome": "Picanto",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 4,
+    "vendas": 10,
+    "valor_do_veiculo": 78000,
+    "nome": "208",
+    "marca": "Peugeøt "
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 5,
+    "vendas": 10,
+    "valor_do_veiculo": 14000,
+    "nome": "Corolla",
+    "marca": "Tøyøtæ"
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 6,
+    "vendas": 1,
+    "valor_do_veiculo": 22000,
+    "nome": "March",
+    "marca": "Nissæn"
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 7,
+    "vendas": 3,
+    "valor_do_veiculo": 300000,
+    "nome": "L200",
+    "marca": "Mitsubishi"
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 2,
+    "vendas": 6,
+    "valor_do_veiculo": 60000,
+    "nome": "Saveiro",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 9,
+    "vendas": 4,
+    "valor_do_veiculo": 45000,
+    "nome": "onix",
+    "marca": "Chevrølet "
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 12000,
+    "nome": "J2",
+    "marca": "JæC Møtørs"
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 11,
+    "vendas": 4,
+    "valor_do_veiculo": 32000,
+    "nome": "Clio",
+    "marca": "Renæult"
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 1,
+    "vendas": 20,
+    "valor_do_veiculo": 34000,
+    "nome": "Mobi",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 2,
+    "vendas": 21,
+    "valor_do_veiculo": 45000,
+    "nome": "Up",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 3,
+    "vendas": 18,
+    "valor_do_veiculo": 35000,
+    "nome": "Picanto",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 4,
+    "vendas": 1,
+    "valor_do_veiculo": 19000,
+    "nome": "307",
+    "marca": "Peugeøt "
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 5,
+    "vendas": 4,
+    "valor_do_veiculo": 120000,
+    "nome": "Corolla",
+    "marca": "Tøyøtæ"
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 6,
+    "vendas": 2,
+    "valor_do_veiculo": 30000,
+    "nome": "March",
+    "marca": "Nissæn"
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 7,
+    "vendas": 3,
+    "valor_do_veiculo": 70000,
+    "nome": "Lancer",
+    "marca": "Mitsubishi"
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 8,
+    "vendas": 5,
+    "valor_do_veiculo": 240000,
+    "nome": "Brz",
+    "marca": "Subæru"
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 9,
+    "vendas": 4,
+    "valor_do_veiculo": 38000,
+    "nome": "onix",
+    "marca": "Chevrølet "
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 10000,
+    "nome": "J2",
+    "marca": "JæC Møtørs"
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 11,
+    "vendas": 1,
+    "valor_do_veiculo": 32000,
+    "nome": "Sandero",
+    "marca": "Renæult"
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 1,
+    "vendas": 15,
+    "valor_do_veiculo": 60000,
+    "nome": "Mobi",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 2,
+    "vendas": 17,
+    "valor_do_veiculo": 54000,
+    "nome": "Up",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 3,
+    "vendas": 19,
+    "valor_do_veiculo": 42000,
+    "nome": "Picanto",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 4,
+    "vendas": 6,
+    "valor_do_veiculo": 12000,
+    "nome": "206",
+    "marca": "Peugeøt "
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 5,
+    "vendas": 2,
+    "valor_do_veiculo": 60000,
+    "nome": "Yaris",
+    "marca": "Tøyøtæ"
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 2,
+    "vendas": 2,
+    "valor_do_veiculo": 45000,
+    "nome": "Kombi",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 7,
+    "vendas": 3,
+    "valor_do_veiculo": 80000,
+    "nome": "Lancer",
+    "marca": "Mitsubishi"
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 8,
+    "vendas": 10,
+    "valor_do_veiculo": 360000,
+    "nome": "Forester",
+    "marca": "Subæru"
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 9,
+    "vendas": 1,
+    "valor_do_veiculo": 40000,
+    "nome": "onix",
+    "marca": "Chevrølet "
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 10,
+    "vendas": 2,
+    "valor_do_veiculo": 14000,
+    "nome": "J2",
+    "marca": "JæC Møtørs"
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 11,
+    "vendas": 6,
+    "valor_do_veiculo": 36000,
+    "nome": "Clio",
+    "marca": "Renæult"
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 1,
+    "vendas": 25,
+    "valor_do_veiculo": 64000,
+    "nome": "Mobi",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 2,
+    "vendas": 26,
+    "valor_do_veiculo": 58000,
+    "nome": "Up",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 3,
+    "vendas": 30,
+    "valor_do_veiculo": 46000,
+    "nome": "Picanto",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 4,
+    "vendas": 15,
+    "valor_do_veiculo": 92000,
+    "nome": "208",
+    "marca": "Peugeøt "
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 5,
+    "vendas": 6,
+    "valor_do_veiculo": 158000,
+    "nome": "Corolla",
+    "marca": "Tøyøtæ"
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 6,
+    "vendas": 3,
+    "valor_do_veiculo": 30000,
+    "nome": "March",
+    "marca": "Nissæn"
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 1,
+    "vendas": 2,
+    "valor_do_veiculo": 42000,
+    "nome": "Uno",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 3,
+    "vendas": 1,
+    "valor_do_veiculo": 89000,
+    "nome": "Rio",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 9,
+    "vendas": 5,
+    "valor_do_veiculo": 40000,
+    "nome": "onix",
+    "marca": "Chevrølet "
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 12000,
+    "nome": "J2",
+    "marca": "JæC Møtørs"
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 11,
+    "vendas": 10,
+    "valor_do_veiculo": 42000,
+    "nome": "Clio",
+    "marca": "Renæult"
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 1,
+    "vendas": 32,
+    "valor_do_veiculo": 72000,
+    "nome": "Mobi",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 2,
+    "vendas": 24,
+    "valor_do_veiculo": 68000,
+    "nome": "Up",
+    "marca": "Vølkswægen"
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 3,
+    "vendas": 19,
+    "valor_do_veiculo": 49000,
+    "nome": "Picanto",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 4,
+    "vendas": 1,
+    "valor_do_veiculo": 90000,
+    "nome": "2008",
+    "marca": "Peugeøt "
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 5,
+    "vendas": 3,
+    "valor_do_veiculo": 75000,
+    "nome": "Yaris",
+    "marca": "Tøyøtæ"
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 1,
+    "vendas": 1,
+    "valor_do_veiculo": 15000,
+    "nome": "Palio",
+    "marca": "Fiæt"
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 7,
+    "vendas": 5,
+    "valor_do_veiculo": 280000,
+    "nome": "Pajero",
+    "marca": "Mitsubishi"
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 8,
+    "vendas": 12,
+    "valor_do_veiculo": 360000,
+    "nome": "Forester",
+    "marca": "Subæru"
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 3,
+    "vendas": 2,
+    "valor_do_veiculo": 45000,
+    "nome": "Cerato",
+    "marca": "Kiæ"
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 12000,
+    "nome": "J2",
+    "marca": "JæC Møtørs"
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 11,
+    "vendas": 6,
+    "valor_do_veiculo": 52000,
+    "nome": "Sandero",
+    "marca": "Renæult"
+  }
+]
