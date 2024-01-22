@@ -4,200 +4,200 @@
     "id_marca_": 1,
     "vendas": 40,
     "valor_do_veiculo": 29000,
-    "nome": "mobi",
-    "marca": "fiaet"
+    "nome": "Mobi",
+    "marca": "Fiat"
   },
   {
     "data": "2022-01-01",
     "id_marca_": 1,
     "vendas": 2,
     "valor_do_veiculo": 49000,
-    "nome": "aergo",
-    "marca": "fiaet"
+    "nome": "Argo",
+    "marca": "Fiat"
   },
   {
     "data": "2022-01-01",
     "id_marca_": 1,
     "vendas": 3,
     "valor_do_veiculo": 19000,
-    "nome": "uno",
-    "marca": "fiaet"
+    "nome": "Uno",
+    "marca": "Fiat"
   },
   {
     "data": "2022-01-01",
     "id_marca_": 2,
     "vendas": 35,
     "valor_do_veiculo": 35000,
-    "nome": "up",
-    "marca": "volkswaegen"
+    "nome": "Up",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-01-01",
     "id_marca_": 3,
     "vendas": 42,
     "valor_do_veiculo": 32000,
-    "nome": "picaento",
-    "marca": "kiae"
+    "nome": "Picanto",
+    "marca": "Kia"
   },
   {
     "data": "2022-01-01",
     "id_marca_": 2,
     "vendas": 2,
     "valor_do_veiculo": 40000,
-    "nome": "gol",
-    "marca": "volkswaegen"
+    "nome": "Gol",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-01-01",
     "id_marca_": 7,
     "vendas": 4,
     "valor_do_veiculo": 60000,
-    "nome": "laencer",
-    "marca": "mitsubishi"
+    "nome": "Lancer",
+    "marca": "Mitsubishi"
   },
   {
     "data": "2022-01-01",
     "id_marca_": 2,
     "vendas": 1,
     "valor_do_veiculo": 35000,
-    "nome": "kombi",
-    "marca": "volkswaegen"
+    "nome": "Kombi",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-01-01",
     "id_marca_": 9,
     "vendas": 2,
     "valor_do_veiculo": 45200,
-    "nome": "onix",
-    "marca": "chevrolet"
+    "nome": "Onix",
+    "marca": "Chevrolet"
   },
   {
     "data": "2022-01-01",
     "id_marca_": 10,
     "vendas": 1,
     "valor_do_veiculo": 270000,
-    "nome": "e-j7",
-    "marca": "jaecmotors"
+    "nome": "E-J7",
+    "marca": "JaC Motors"
   },
   {
     "data": "2022-01-01",
     "id_marca_": 11,
     "vendas": 5,
     "valor_do_veiculo": 70000,
-    "nome": "caeptur",
-    "marca": "renaeult"
+    "nome": "Captur",
+    "marca": "Renault"
   },
   {
     "data": "2022-02-01",
     "id_marca_": 1,
     "vendas": 1,
     "valor_do_veiculo": 8000,
-    "nome": "paelio",
-    "marca": "fiaet"
+    "nome": "Palio",
+    "marca": "Fiat"
   },
   {
     "data": "2022-02-01",
     "id_marca_": 2,
     "vendas": 40,
     "valor_do_veiculo": 35000,
-    "nome": "up",
-    "marca": "volkswaegen"
+    "nome": "Up",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-02-01",
     "id_marca_": 1,
     "vendas": 52,
     "valor_do_veiculo": 29000,
-    "nome": "mobi",
-    "marca": "fiaet"
+    "nome": "Mobi",
+    "marca": "Fiat"
   },
   {
     "data": "2022-02-01",
     "id_marca_": 3,
     "vendas": 30,
     "valor_do_veiculo": 36000,
-    "nome": "picaento",
-    "marca": "kiae"
+    "nome": "Picanto",
+    "marca": "Kia"
   },
   {
     "data": "2022-02-01",
     "id_marca_": 5,
     "vendas": 15,
     "valor_do_veiculo": 45000,
-    "nome": "yaeris",
-    "marca": "toyotae"
+    "nome": "Yaris",
+    "marca": "Toyota"
   },
   {
     "data": "2022-02-01",
     "id_marca_": 6,
     "vendas": 2,
     "valor_do_veiculo": 28000,
-    "nome": "maerch",
-    "marca": "nissaen"
+    "nome": "March",
+    "marca": "Nissan"
   },
   {
     "data": "2022-02-01",
     "id_marca_": 7,
     "vendas": 7,
     "valor_do_veiculo": 240000,
-    "nome": "l200",
-    "marca": "mitsubishi"
+    "nome": "L200",
+    "marca": "Mitsubishi"
   },
   {
     "data": "2022-02-01",
     "id_marca_": 2,
     "vendas": 6,
     "valor_do_veiculo": 30000,
-    "nome": "gol",
-    "marca": "volkswaegen"
+    "nome": "Gol",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-02-01",
     "id_marca_": 3,
     "vendas": 4,
     "valor_do_veiculo": 41000,
-    "nome": "ceraeto",
-    "marca": "kiae"
+    "nome": "Cerato",
+    "marca": "Kia"
   },
   {
     "data": "2022-02-01",
     "id_marca_": 10,
     "vendas": 6,
     "valor_do_veiculo": 145000,
-    "nome": "e-js1",
-    "marca": "jaecmotors"
+    "nome": "E-JS1",
+    "marca": "JaC Motors"
   },
   {
     "data": "2022-02-01",
     "id_marca_": 11,
     "vendas": 3,
     "valor_do_veiculo": 60000,
-    "nome": "duster",
-    "marca": "renaeult"
+    "nome": "Duster",
+    "marca": "Renault"
   },
   {
     "data": "2022-03-01",
     "id_marca_": 1,
     "vendas": 1,
     "valor_do_veiculo": 10000,
-    "nome": "uno",
-    "marca": "fiaet"
+    "nome": "Uno",
+    "marca": "Fiat"
   },
   {
     "data": "2022-03-01",
     "id_marca_": 2,
     "vendas": 30,
     "valor_do_veiculo": 35000,
-    "nome": "up",
-    "marca": "volkswaegen"
+    "nome": "Uno",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-03-01",
     "id_marca_": 3,
     "vendas": 25,
     "valor_do_veiculo": 145000,
-    "nome": "picaento",
-    "marca": "kiae"
+    "nome": "Picanto",
+    "marca": "Kia"
   },
   {
     "data": "2022-03-01",
@@ -205,87 +205,87 @@
     "vendas": 20,
     "valor_do_veiculo": 79000,
     "nome": "208",
-    "marca": "peugeot"
+    "marca": "Peugeot"
   },
   {
     "data": "2022-03-01",
     "id_marca_": 1,
     "vendas": 30,
     "valor_do_veiculo": 30000,
-    "nome": "mobi",
-    "marca": "fiaet"
+    "nome": "Mobi",
+    "marca": "Fiat"
   },
   {
     "data": "2022-03-01",
     "id_marca_": 2,
     "vendas": 1,
     "valor_do_veiculo": 28000,
-    "nome": "gol",
-    "marca": "volkswaegen"
+    "nome": "Gol",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-03-01",
     "id_marca_": 7,
     "vendas": 1,
     "valor_do_veiculo": 75000,
-    "nome": "laencer",
-    "marca": "mitsubishi"
+    "nome": "Lancer",
+    "marca": "Mitsubishi"
   },
   {
     "data": "2022-03-01",
     "id_marca_": 8,
     "vendas": 2,
     "valor_do_veiculo": 300000,
-    "nome": "forester",
-    "marca": "subaeru"
+    "nome": "Forester",
+    "marca": "Subaru"
   },
   {
     "data": "2022-03-01",
     "id_marca_": 9,
     "vendas": 3,
     "valor_do_veiculo": 45000,
-    "nome": "onix",
-    "marca": "chevrolet"
+    "nome": "Onix",
+    "marca": "Chevrolet"
   },
   {
     "data": "2022-03-01",
     "id_marca_": 10,
     "vendas": 5,
     "valor_do_veiculo": 25000,
-    "nome": "j5",
-    "marca": "jaecmotors"
+    "nome": "J5",
+    "marca": "JaC Motors"
   },
   {
     "data": "2022-03-01",
     "id_marca_": 11,
     "vendas": 1,
     "valor_do_veiculo": 30000,
-    "nome": "saendero",
-    "marca": "renaeult"
+    "nome": "Sandero",
+    "marca": "Renault"
   },
   {
     "data": "2022-04-01",
     "id_marca_": 1,
     "vendas": 40,
     "valor_do_veiculo": 28000,
-    "nome": "mobi",
-    "marca": "fiaet"
+    "nome": "Mobi",
+    "marca": "Fiat"
   },
   {
     "data": "2022-04-01",
     "id_marca_": 2,
     "vendas": 45,
     "valor_do_veiculo": 30000,
-    "nome": "up",
-    "marca": "volkswaegen"
+    "nome": "Up",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-04-01",
     "id_marca_": 3,
     "vendas": 30,
     "valor_do_veiculo": 26000,
-    "nome": "picaento",
-    "marca": "kiae"
+    "nome": "Picanto",
+    "marca": "Kia"
   },
   {
     "data": "2022-04-01",
@@ -293,175 +293,175 @@
     "vendas": 25,
     "valor_do_veiculo": 85000,
     "nome": "208",
-    "marca": "peugeot"
+    "marca": "Peugeot"
   },
   {
     "data": "2022-04-01",
     "id_marca_": 1,
     "vendas": 1,
     "valor_do_veiculo": 12000,
-    "nome": "paelio",
-    "marca": "fiaet"
+    "nome": "Palio",
+    "marca": "Fiat"
   },
   {
     "data": "2022-04-01",
     "id_marca_": 6,
     "vendas": 5,
     "valor_do_veiculo": 30000,
-    "nome": "maerch",
-    "marca": "nissaen"
+    "nome": "March",
+    "marca": "Nissan"
   },
   {
     "data": "2022-04-01",
     "id_marca_": 7,
     "vendas": 1,
     "valor_do_veiculo": 124000,
-    "nome": "eclipse",
-    "marca": "mitsubishi"
+    "nome": "Eclipse",
+    "marca": "Mitsubishi"
   },
   {
     "data": "2022-04-01",
     "id_marca_": 8,
     "vendas": 4,
     "valor_do_veiculo": 320000,
-    "nome": "xv",
-    "marca": "subaeru"
+    "nome": "XV",
+    "marca": "Subaru"
   },
   {
     "data": "2022-04-01",
     "id_marca_": 2,
     "vendas": 1,
     "valor_do_veiculo": 99000,
-    "nome": "polo",
-    "marca": "volkswaegen"
+    "nome": "Polo",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-04-01",
     "id_marca_": 10,
     "vendas": 1,
     "valor_do_veiculo": 14000,
-    "nome": "j2",
-    "marca": "jaecmotors"
+    "nome": "J2",
+    "marca": "JaC Motors"
   },
   {
     "data": "2022-04-01",
     "id_marca_": 11,
     "vendas": 5,
     "valor_do_veiculo": 25000,
-    "nome": "clio",
-    "marca": "renaeult"
+    "nome": "Clio",
+    "marca": "Renault"
   },
   {
     "data": "2022-05-01",
     "id_marca_": 1,
     "vendas": 50,
     "valor_do_veiculo": 25000,
-    "nome": "mobi",
-    "marca": "fiaet"
+    "nome": "Mobi",
+    "marca": "Fiat"
   },
   {
     "data": "2022-05-01",
     "id_marca_": 2,
     "vendas": 45,
     "valor_do_veiculo": 29000,
-    "nome": "up",
-    "marca": "volkswaegen"
+    "nome": "Up",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-05-01",
     "id_marca_": 3,
     "vendas": 35,
     "valor_do_veiculo": 19000,
-    "nome": "picaento",
-    "marca": "kiae"
+    "nome": "Picanto",
+    "marca": "Kia"
   },
   {
     "data": "2022-05-01",
     "id_marca_": 1,
     "vendas": 2,
     "valor_do_veiculo": 28000,
-    "nome": "aergo",
-    "marca": "fiaet"
+    "nome": "Argo",
+    "marca": "Fiat"
   },
   {
     "data": "2022-05-01",
     "id_marca_": 5,
     "vendas": 3,
     "valor_do_veiculo": 35000,
-    "nome": "yaeris",
-    "marca": "toyotae"
+    "nome": "Yaris",
+    "marca": "Toyota"
   },
   {
     "data": "2022-05-01",
     "id_marca_": 6,
     "vendas": 7,
     "valor_do_veiculo": 22000,
-    "nome": "maerch",
-    "marca": "nissaen"
+    "nome": "March",
+    "marca": "Nissan"
   },
   {
     "data": "2022-05-01",
     "id_marca_": 2,
     "vendas": 2,
     "valor_do_veiculo": 90000,
-    "nome": "t-cross",
-    "marca": "volkswaegen"
+    "nome": "T-Cross",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-05-01",
     "id_marca_": 8,
     "vendas": 4,
     "valor_do_veiculo": 320000,
-    "nome": "forester",
-    "marca": "subaeru"
+    "nome": "Forester",
+    "marca": "Subaru"
   },
   {
     "data": "2022-05-01",
     "id_marca_": 9,
     "vendas": 3,
     "valor_do_veiculo": 40000,
-    "nome": "onix",
-    "marca": "chevrolet"
+    "nome": "Onix",
+    "marca": "Chevrolet"
   },
   {
     "data": "2022-05-01",
     "id_marca_": 10,
     "vendas": 2,
     "valor_do_veiculo": 12000,
-    "nome": "j2",
-    "marca": "jaecmotors"
+    "nome": "J2",
+    "marca": "JaC Motors"
   },
   {
     "data": "2022-05-01",
     "id_marca_": 11,
     "vendas": 5,
     "valor_do_veiculo": 18000,
-    "nome": "clio",
-    "marca": "renaeult"
+    "nome": "Clio",
+    "marca": "Renault"
   },
   {
     "data": "2022-06-01",
     "id_marca_": 1,
     "vendas": 45,
     "valor_do_veiculo": 26000,
-    "nome": "mobi",
-    "marca": "fiaet"
+    "nome": "Mobi",
+    "marca": "Fiat"
   },
   {
     "data": "2022-06-01",
     "id_marca_": 2,
     "vendas": 35,
     "valor_do_veiculo": 30000,
-    "nome": "up",
-    "marca": "volkswaegen"
+    "nome": "Up",
+    "marca": "Vokswaegen"
   },
   {
     "data": "2022-06-01",
     "id_marca_": 3,
     "vendas": 30,
     "valor_do_veiculo": 20000,
-    "nome": "picaento",
-    "marca": "kiae"
+    "nome": "Picanto",
+    "marca": "Kia"
   },
   {
     "data": "2022-06-01",
@@ -469,87 +469,87 @@
     "vendas": 20,
     "valor_do_veiculo": 78000,
     "nome": "208",
-    "marca": "peugeot"
+    "marca": "Peugeot"
   },
   {
     "data": "2022-06-01",
     "id_marca_": 1,
     "vendas": 2,
     "valor_do_veiculo": 20000,
-    "nome": "uno",
-    "marca": "fiaet"
+    "nome": "Uno",
+    "marca": "Fiat"
   },
   {
     "data": "2022-06-01",
     "id_marca_": 6,
     "vendas": 3,
     "valor_do_veiculo": 23000,
-    "nome": "maerch",
-    "marca": "nissaen"
+    "nome": "March",
+    "marca": "Nissan"
   },
   {
     "data": "2022-06-01",
     "id_marca_": 7,
     "vendas": 8,
     "valor_do_veiculo": 160000,
-    "nome": "paejero",
-    "marca": "mitsubishi"
+    "nome": "Pajero",
+    "marca": "Mitsubishi"
   },
   {
     "data": "2022-06-01",
     "id_marca_": 1,
     "vendas": 4,
     "valor_do_veiculo": 80000,
-    "nome": "cronos",
-    "marca": "fiaet"
+    "nome": "Cronos",
+    "marca": "Fiat"
   },
   {
     "data": "2022-06-01",
     "id_marca_": 9,
     "vendas": 8,
     "valor_do_veiculo": 42000,
-    "nome": "onix",
-    "marca": "chevrolet"
+    "nome": "Onix",
+    "marca": "Chevrolet"
   },
   {
     "data": "2022-06-01",
     "id_marca_": 10,
     "vendas": 1,
     "valor_do_veiculo": 13000,
-    "nome": "j2",
-    "marca": "jaecmotors"
+    "nome": "J2",
+    "marca": "JaC Motors"
   },
   {
     "data": "2022-06-01",
     "id_marca_": 11,
     "vendas": 3,
     "valor_do_veiculo": 80000,
-    "nome": "saenderors",
-    "marca": "renaeult"
+    "nome": "Sandero RS",
+    "marca": "Renault"
   },
   {
     "data": "2022-07-01",
     "id_marca_": 1,
     "vendas": 40,
     "valor_do_veiculo": 32000,
-    "nome": "mobi",
-    "marca": "fiaet"
+    "nome": "Mobi",
+    "marca": "Fiat"
   },
   {
     "data": "2022-07-01",
     "id_marca_": 2,
     "vendas": 35,
     "valor_do_veiculo": 35000,
-    "nome": "up",
-    "marca": "volkswaegen"
+    "nome": "Up",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-07-01",
     "id_marca_": 3,
     "vendas": 38,
     "valor_do_veiculo": 18000,
-    "nome": "picaento",
-    "marca": "kiae"
+    "nome": "Picanto",
+    "marca": "Kia"
   },
   {
     "data": "2022-07-01",
@@ -557,87 +557,87 @@
     "vendas": 6,
     "valor_do_veiculo": 80000,
     "nome": "2008",
-    "marca": "peugeot"
+    "marca": "Peugeot"
   },
   {
     "data": "2022-07-01",
     "id_marca_": 5,
     "vendas": 20,
     "valor_do_veiculo": 140000,
-    "nome": "corollae",
-    "marca": "toyotae"
+    "nome": "Corolla",
+    "marca": "Toyota"
   },
   {
     "data": "2022-07-01",
     "id_marca_": 2,
     "vendas": 1,
     "valor_do_veiculo": 120000,
-    "nome": "jettae",
-    "marca": "volkswaegen"
+    "nome": "Jetta",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-07-01",
     "id_marca_": 7,
     "vendas": 3,
     "valor_do_veiculo": 75000,
-    "nome": "laencer",
-    "marca": "mitsubishi"
+    "nome": "Lancer",
+    "marca": "Mitsubishi"
   },
   {
     "data": "2022-07-01",
     "id_marca_": 8,
     "vendas": 15,
     "valor_do_veiculo": 250000,
-    "nome": "wrx",
-    "marca": "subaeru"
+    "nome": "WRX",
+    "marca": "Subaru"
   },
   {
     "data": "2022-07-01",
     "id_marca_": 9,
     "vendas": 3,
     "valor_do_veiculo": 55000,
-    "nome": "onix",
-    "marca": "chevrolet"
+    "nome": "Onix",
+    "marca": "Chevrolet"
   },
   {
     "data": "2022-07-01",
     "id_marca_": 10,
     "vendas": 4,
     "valor_do_veiculo": 10000,
-    "nome": "j2",
-    "marca": "jaecmotors"
+    "nome": "J2",
+    "marca": "JaC Motors"
   },
   {
     "data": "2022-07-01",
     "id_marca_": 11,
     "vendas": 8,
     "valor_do_veiculo": 35000,
-    "nome": "duster",
-    "marca": "renaeult"
+    "nome": "Duster",
+    "marca": "Renault"
   },
   {
     "data": "2022-08-01",
     "id_marca_": 1,
     "vendas": 25,
     "valor_do_veiculo": 35000,
-    "nome": "mobi",
-    "marca": "fiaet"
+    "nome": "Mobi",
+    "marca": "Fiat"
   },
   {
     "data": "2022-08-01",
     "id_marca_": 2,
     "vendas": 20,
     "valor_do_veiculo": 38000,
-    "nome": "up",
-    "marca": "volkswaegen"
+    "nome": "Up",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-08-01",
     "id_marca_": 3,
     "vendas": 22,
     "valor_do_veiculo": 33000,
-    "nome": "picaento",
-    "marca": "kiae"
+    "nome": "Picanto",
+    "marca": "Kia"
   },
   {
     "data": "2022-08-01",
@@ -645,87 +645,87 @@
     "vendas": 10,
     "valor_do_veiculo": 78000,
     "nome": "208",
-    "marca": "peugeot"
+    "marca": "Peugeot"
   },
   {
     "data": "2022-08-01",
     "id_marca_": 5,
     "vendas": 10,
     "valor_do_veiculo": 14000,
-    "nome": "corollae",
-    "marca": "toyotae"
+    "nome": "Corolla",
+    "marca": "Toyota"
   },
   {
     "data": "2022-08-01",
     "id_marca_": 6,
     "vendas": 1,
     "valor_do_veiculo": 22000,
-    "nome": "maerch",
-    "marca": "nissaen"
+    "nome": "March",
+    "marca": "Nissan"
   },
   {
     "data": "2022-08-01",
     "id_marca_": 7,
     "vendas": 3,
     "valor_do_veiculo": 300000,
-    "nome": "l200",
-    "marca": "mitsubishi"
+    "nome": "L200",
+    "marca": "Mitsubishi"
   },
   {
     "data": "2022-08-01",
     "id_marca_": 2,
     "vendas": 6,
     "valor_do_veiculo": 60000,
-    "nome": "saeveiro",
-    "marca": "volkswaegen"
+    "nome": "Saveiro",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-08-01",
     "id_marca_": 9,
     "vendas": 4,
     "valor_do_veiculo": 45000,
-    "nome": "onix",
-    "marca": "chevrolet"
+    "nome": "Onix",
+    "marca": "Chevrolet"
   },
   {
     "data": "2022-08-01",
     "id_marca_": 10,
     "vendas": 1,
     "valor_do_veiculo": 12000,
-    "nome": "j2",
-    "marca": "jaecmotors"
+    "nome": "J2",
+    "marca": "JaC Motors"
   },
   {
     "data": "2022-08-01",
     "id_marca_": 11,
     "vendas": 4,
     "valor_do_veiculo": 32000,
-    "nome": "clio",
-    "marca": "renaeult"
+    "nome": "Clio",
+    "marca": "Renault"
   },
   {
     "data": "2022-09-01",
     "id_marca_": 1,
     "vendas": 20,
     "valor_do_veiculo": 34000,
-    "nome": "mobi",
-    "marca": "fiaet"
+    "nome": "Mobi",
+    "marca": "Fiat"
   },
   {
     "data": "2022-09-01",
     "id_marca_": 2,
     "vendas": 21,
     "valor_do_veiculo": 45000,
-    "nome": "up",
-    "marca": "volkswaegen"
+    "nome": "Up",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-09-01",
     "id_marca_": 3,
     "vendas": 18,
     "valor_do_veiculo": 35000,
-    "nome": "picaento",
-    "marca": "kiae"
+    "nome": "Picanto",
+    "marca": "Kia"
   },
   {
     "data": "2022-09-01",
@@ -733,87 +733,87 @@
     "vendas": 1,
     "valor_do_veiculo": 19000,
     "nome": "307",
-    "marca": "peugeot"
+    "marca": "Peugeot"
   },
   {
     "data": "2022-09-01",
     "id_marca_": 5,
     "vendas": 4,
     "valor_do_veiculo": 120000,
-    "nome": "corollae",
-    "marca": "toyotae"
+    "nome": "Corolla",
+    "marca": "Toyota"
   },
   {
     "data": "2022-09-01",
     "id_marca_": 6,
     "vendas": 2,
     "valor_do_veiculo": 30000,
-    "nome": "maerch",
-    "marca": "nissaen"
+    "nome": "March",
+    "marca": "Nissan"
   },
   {
     "data": "2022-09-01",
     "id_marca_": 7,
     "vendas": 3,
     "valor_do_veiculo": 70000,
-    "nome": "laencer",
-    "marca": "mitsubishi"
+    "nome": "Lancer",
+    "marca": "Mitsubishi"
   },
   {
     "data": "2022-09-01",
     "id_marca_": 8,
     "vendas": 5,
     "valor_do_veiculo": 240000,
-    "nome": "brz",
-    "marca": "subaeru"
+    "nome": "BRZ",
+    "marca": "Subaru"
   },
   {
     "data": "2022-09-01",
     "id_marca_": 9,
     "vendas": 4,
     "valor_do_veiculo": 38000,
-    "nome": "onix",
-    "marca": "chevrolet"
+    "nome": "Onix",
+    "marca": "Chevrolet"
   },
   {
     "data": "2022-09-01",
     "id_marca_": 10,
     "vendas": 1,
     "valor_do_veiculo": 10000,
-    "nome": "j2",
-    "marca": "jaecmotors"
+    "nome": "J2",
+    "marca": "JaC Motors"
   },
   {
     "data": "2022-09-01",
     "id_marca_": 11,
     "vendas": 1,
     "valor_do_veiculo": 32000,
-    "nome": "saendero",
-    "marca": "renaeult"
+    "nome": "Sandero",
+    "marca": "Renault"
   },
   {
     "data": "2022-10-01",
     "id_marca_": 1,
     "vendas": 15,
     "valor_do_veiculo": 60000,
-    "nome": "mobi",
-    "marca": "fiaet"
+    "nome": "Mobi",
+    "marca": "Fiat"
   },
   {
     "data": "2022-10-01",
     "id_marca_": 2,
     "vendas": 17,
     "valor_do_veiculo": 54000,
-    "nome": "up",
-    "marca": "volkswaegen"
+    "nome": "Up",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-10-01",
     "id_marca_": 3,
     "vendas": 19,
     "valor_do_veiculo": 42000,
-    "nome": "picaento",
-    "marca": "kiae"
+    "nome": "Picanto",
+    "marca": "Kia"
   },
   {
     "data": "2022-10-01",
@@ -821,87 +821,87 @@
     "vendas": 6,
     "valor_do_veiculo": 12000,
     "nome": "206",
-    "marca": "peugeot"
+    "marca": "Peugeot"
   },
   {
     "data": "2022-10-01",
     "id_marca_": 5,
     "vendas": 2,
     "valor_do_veiculo": 60000,
-    "nome": "yaeris",
-    "marca": "toyotae"
+    "nome": "Yaris",
+    "marca": "Toyota"
   },
   {
     "data": "2022-10-01",
     "id_marca_": 2,
     "vendas": 2,
     "valor_do_veiculo": 45000,
-    "nome": "kombi",
-    "marca": "volkswaegen"
+    "nome": "Kombi",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-10-01",
     "id_marca_": 7,
     "vendas": 3,
     "valor_do_veiculo": 80000,
-    "nome": "laencer",
-    "marca": "mitsubishi"
+    "nome": "Lancer",
+    "marca": "Mitsubishi"
   },
   {
     "data": "2022-10-01",
     "id_marca_": 8,
     "vendas": 10,
     "valor_do_veiculo": 360000,
-    "nome": "forester",
-    "marca": "subaeru"
+    "nome": "Forester",
+    "marca": "Subaru"
   },
   {
     "data": "2022-10-01",
     "id_marca_": 9,
     "vendas": 1,
     "valor_do_veiculo": 40000,
-    "nome": "onix",
-    "marca": "chevrolet"
+    "nome": "Onix",
+    "marca": "Chevrolet"
   },
   {
     "data": "2022-10-01",
     "id_marca_": 10,
     "vendas": 2,
     "valor_do_veiculo": 14000,
-    "nome": "j2",
-    "marca": "jaecmotors"
+    "nome": "J2",
+    "marca": "JaC Motors"
   },
   {
     "data": "2022-10-01",
     "id_marca_": 11,
     "vendas": 6,
     "valor_do_veiculo": 36000,
-    "nome": "clio",
-    "marca": "renaeult"
+    "nome": "Clio",
+    "marca": "Renault"
   },
   {
     "data": "2022-11-01",
     "id_marca_": 1,
     "vendas": 25,
     "valor_do_veiculo": 64000,
-    "nome": "mobi",
-    "marca": "fiaet"
+    "nome": "Mobi",
+    "marca": "Fiat"
   },
   {
     "data": "2022-11-01",
     "id_marca_": 2,
     "vendas": 26,
     "valor_do_veiculo": 58000,
-    "nome": "up",
-    "marca": "volkswaegen"
+    "nome": "Up",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-11-01",
     "id_marca_": 3,
     "vendas": 30,
     "valor_do_veiculo": 46000,
-    "nome": "picaento",
-    "marca": "kiae"
+    "nome": "Picanto",
+    "marca": "Kia"
   },
   {
     "data": "2022-11-01",
@@ -909,87 +909,87 @@
     "vendas": 15,
     "valor_do_veiculo": 92000,
     "nome": "208",
-    "marca": "peugeot"
+    "marca": "Peugeot"
   },
   {
     "data": "2022-11-01",
     "id_marca_": 5,
     "vendas": 6,
     "valor_do_veiculo": 158000,
-    "nome": "corollae",
-    "marca": "toyotae"
+    "nome": "Corolla",
+    "marca": "Toyota"
   },
   {
     "data": "2022-11-01",
     "id_marca_": 6,
     "vendas": 3,
     "valor_do_veiculo": 30000,
-    "nome": "maerch",
-    "marca": "nissaen"
+    "nome": "March",
+    "marca": "Nissan"
   },
   {
     "data": "2022-11-01",
     "id_marca_": 1,
     "vendas": 2,
     "valor_do_veiculo": 42000,
-    "nome": "uno",
-    "marca": "fiaet"
+    "nome": "Uno",
+    "marca": "Fiat"
   },
   {
     "data": "2022-11-01",
     "id_marca_": 3,
     "vendas": 1,
     "valor_do_veiculo": 89000,
-    "nome": "rio",
-    "marca": "kiae"
+    "nome": "Rio",
+    "marca": "Kia"
   },
   {
     "data": "2022-11-01",
     "id_marca_": 9,
     "vendas": 5,
     "valor_do_veiculo": 40000,
-    "nome": "onix",
-    "marca": "chevrolet"
+    "nome": "Onix",
+    "marca": "Chevrolet"
   },
   {
     "data": "2022-11-01",
     "id_marca_": 10,
     "vendas": 1,
     "valor_do_veiculo": 12000,
-    "nome": "j2",
-    "marca": "jaecmotors"
+    "nome": "J2",
+    "marca": "JaC Motors"
   },
   {
     "data": "2022-11-01",
     "id_marca_": 11,
     "vendas": 10,
     "valor_do_veiculo": 42000,
-    "nome": "clio",
-    "marca": "renaeult"
+    "nome": "Clio",
+    "marca": "Renault"
   },
   {
     "data": "2022-12-01",
     "id_marca_": 1,
     "vendas": 32,
     "valor_do_veiculo": 72000,
-    "nome": "mobi",
-    "marca": "fiaet"
+    "nome": "Mobi",
+    "marca": "Fiat"
   },
   {
     "data": "2022-12-01",
     "id_marca_": 2,
     "vendas": 24,
     "valor_do_veiculo": 68000,
-    "nome": "up",
-    "marca": "volkswaegen"
+    "nome": "Up",
+    "marca": "Volkswagen"
   },
   {
     "data": "2022-12-01",
     "id_marca_": 3,
     "vendas": 19,
     "valor_do_veiculo": 49000,
-    "nome": "picaento",
-    "marca": "kiae"
+    "nome": "Picanto",
+    "marca": "Kia"
   },
   {
     "data": "2022-12-01",
@@ -997,62 +997,62 @@
     "vendas": 1,
     "valor_do_veiculo": 90000,
     "nome": "2008",
-    "marca": "peugeot"
+    "marca": "Peugeot"
   },
   {
     "data": "2022-12-01",
     "id_marca_": 5,
     "vendas": 3,
     "valor_do_veiculo": 75000,
-    "nome": "yaeris",
-    "marca": "toyotae"
+    "nome": "Yaris",
+    "marca": "Toyota"
   },
   {
     "data": "2022-12-01",
     "id_marca_": 1,
     "vendas": 1,
     "valor_do_veiculo": 15000,
-    "nome": "paelio",
-    "marca": "fiaet"
+    "nome": "Palio",
+    "marca": "Fiat"
   },
   {
     "data": "2022-12-01",
     "id_marca_": 7,
     "vendas": 5,
     "valor_do_veiculo": 280000,
-    "nome": "paejero",
-    "marca": "mitsubishi"
+    "nome": "Pajero",
+    "marca": "Mitsubishi"
   },
   {
     "data": "2022-12-01",
     "id_marca_": 8,
     "vendas": 12,
     "valor_do_veiculo": 360000,
-    "nome": "forester",
-    "marca": "subaeru"
+    "nome": "Forester",
+    "marca": "Subaru"
   },
   {
     "data": "2022-12-01",
     "id_marca_": 3,
     "vendas": 2,
     "valor_do_veiculo": 45000,
-    "nome": "ceraeto",
-    "marca": "kiae"
+    "nome": "Cerato",
+    "marca": "Kia"
   },
   {
     "data": "2022-12-01",
     "id_marca_": 10,
     "vendas": 1,
     "valor_do_veiculo": 12000,
-    "nome": "j2",
-    "marca": "jaecmotors"
+    "nome": "J2",
+    "marca": "JaC Motors"
   },
   {
     "data": "2022-12-01",
     "id_marca_": 11,
     "vendas": 6,
     "valor_do_veiculo": 52000,
-    "nome": "saendero",
-    "marca": "renaeult"
+    "nome": "Sandero",
+    "marca": "Renault"
   }
 ]
