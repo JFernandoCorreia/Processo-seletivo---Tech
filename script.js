@@ -40,8 +40,8 @@ function criarBancoDeDados(dados1, dados2) {
     const stmt1 = db.prepare('INSERT INTO dados1 VALUES (?, ?, ?, ?, ?)');
     const stmt2 = db.prepare('INSERT INTO dados2 VALUES (?, ?)');
 
-    dados1.forEach(item => stmt1.run(item.data, item.id_marca_, item.vendas, item.valor_do_veiculo, item.nome));
-    dados2.forEach(item => stmt2.run(item.id_marca, item.marca));
+    dados1.forEach(item => stmt1.run(item.data, item.id_marca_, item.vendas, item.valor_do_veiculo, consolidarDados(item.nome)));
+    dados2.forEach(item => stmt2.run(item.id_marca, consolidarDados(item.marca)));
 
     stmt1.finalize();
     stmt2.finalize();
@@ -55,9 +55,8 @@ function corrigirNomes(dados, marcasCorrigidas) {
   const dadosCorrigidos = dados.map(item => {
     const marcaCorrigida = marcasCorrigidas.find(marca => marca.id_marca === item.id_marca_);
     if (marcaCorrigida) {
-      item.nome = item.nome.replace(/æ/g, 'a').replace(/ø/g, 'o');
-      item.nome = item.nome.replace(/æ/g, 'a').replace(/ø/g, 'o');
-      item.marca = marcaCorrigida.marca;
+      item.nome = consolidarDados(item.nome);
+      item.marca = consolidarDados(marcaCorrigida.marca);
     }
     return item;
   });
@@ -71,6 +70,16 @@ function corrigirVendas(dados) {
     return item;
   });
   return dadosCorrigidos;
+}
+
+// Função para corrigir caracteres especiais
+function corrigirCaracteresEspeciais(texto) {
+  return texto.replace(/ø/g, 'o').replace(/æ/g, 'ae');
+}
+
+// Função para consolidar dados de marcas
+function consolidarDados(marca) {
+  return corrigirCaracteresEspeciais(marca.toLowerCase().replace(/\s+/g, ''));
 }
 
 // Função para exportar os arquivos JSON corrigidos
